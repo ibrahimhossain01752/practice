@@ -1,0 +1,157 @@
+/* .carousel-item {
+	height: 100vh;
+	min-height: 300px;
+}
+.bg-1 {
+	background-image: url(https://cdn.shopify.com/s/files/1/0195/5145/3248/files/slider-1_2000x.jpg?v=1572581662);
+}
+.bg-2 {
+	background-image: url(https://cdn.shopify.com/s/files/1/0195/5145/3248/files/slider-2_bd13fd4a-b427-4949-8025-288b3a744835_2000x.jpg?v=1572581683);
+}
+.bg-3 {
+	background-image: url(https://cdn.shopify.com/s/files/1/0195/5145/3248/files/slider-3-1_2000x.jpg?v=1572863329);
+}
+.bg-1, .bg-2, .bg-3 {
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+.carousel-caption {
+	bottom: 220px;
+	z-index: 2;
+}
+.carousel-caption h5 {
+	font-size: 85px;
+	text-transform: capitalize;
+	letter-spacing: 2px;
+	margin-top: 25px;
+	font-family: 'Moon Dance', cursive;
+}
+.carousel-caption p {
+	width: 60%;
+	margin: auto;
+	font-size: 18px;
+	line-height: 1.9;
+}
+.carousel-caption a {
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 5px 20px;
+	display: inline-block;
+	color: #fff;
+	margin-top: 15px;
+	border-radius: 5px;
+}
+.carousel-inner:before {
+	content: '';
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	
+	z-index: 1;
+}
+.carousel-indicators {
+	bottom: 65px;
+}
+.carousel-indicators button {
+	width: 100px !important;
+
+	==========================================
+} */
+
+/* .carousel {
+	height: 100vh;
+  }
+
+.carousel-caption{
+	bottom: 220px;
+	z-index: 2;
+}
+  
+  .carousel-item {
+	height: 100%;
+  }
+  
+  .carousel-item > img {
+	height: 100%;
+	width: 100%;
+	object-fit: cover;
+  }
+  
+  .carousel-control-prev, .carousel-control-next {
+	width: 5%;
+  }
+  
+  .carousel-indicators {
+	bottom: 0;
+  }
+  
+  .carousel-indicators > li {
+	border-radius: 50%;
+	width: 10px;
+	height: 10px;
+  }
+  
+  .carousel-indicators > li.active {
+	background-color: #fff;
+  }
+  @media (max-width: 767px) {
+	.carousel-caption {
+	  font-size: 12rem;
+	  padding: 1rem;
+	}
+  } */
+
+
+
+  .carousel-item img {
+	width: 100%;
+	height: auto;
+  }
+  .carousel-caption{
+	bottom: 250px;
+	/* margin-right: 140px; */
+  }
+  /* ====banner1===== */
+  .heading-1{
+	margin-right: 240px;
+  }
+  .para1{
+	margin-right: 402px;
+	line-height: 15px;
+	font-weight: 700;
+  }
+  .beauti-title{
+	margin-top: 20px;
+  }
+  .para2{
+	margin-right: 428px;
+	margin-top: 20px;
+	font-weight: 700;
+  }
+  @media (max-width: 767px) {
+	.carousel-caption {
+	  font-size: 0.8rem;
+	  padding: 1rem;
+	  top: 20px;
+	  margin-left: -50px;
+	}
+	.para1{
+		font-size:10px;
+		margin-right: -70px;
+		margin-bottom: 5px;
+	}
+	.beauti-title{
+		font-size:14px;
+		margin-right: -190px;
+		margin-top:5px;
+	}
+	.para2{
+		font-size:10px;
+		margin-right: -60px;
+		margin-top:5px;
+	}
+  }
+	
+  
