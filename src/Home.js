@@ -22,20 +22,22 @@ const Home = () => {
              <h5 class="para2">flat 30% off</h5>
       </div>
     </div>
-    {/* <div class="carousel-item">
+    <div class="carousel-item">
       <img src="https://cdn.shopify.com/s/files/1/0195/5145/3248/files/slider-2_bd13fd4a-b427-4949-8025-288b3a744835_2000x.jpg?v=1572581683" alt="Image 2"/>
-      <div class="carousel-caption">
-        <h3>Heading 2</h3>
-        <p>Text 2</p>
+      <div class="carousel-caption slide_2">
+      <h5 class="para3 mt-5"><span class="span2">Cosmetics For Young</span></h5>
+             <h1 class="beauti-title para4 mb-5"><span class="colec2">Senstive Skin</span> <span class="colec"></span></h1>
+             <h5 class="para-3">50% Discount</h5>
       </div>
     </div>
     <div class="carousel-item">
       <img src="https://cdn.shopify.com/s/files/1/0195/5145/3248/files/slider-3-1_2000x.jpg?v=1572863329" alt="Image 3"/>
-      <div class="carousel-caption">
-        <h3>Heading 3</h3>
-        <p>Text 3</p>
+      <div class="carousel-caption slide_2">
+      <h5 class="para3 mt-5"><span class="span3">Best Collections</span></h5>
+          <h1 class="beauti-title para4 mb-5"><span class="colec1">Natural Cosmetics</span> <span class="colec">Collections</span></h1>
+             <h5 class="para-3">flat 30% </h5>
       </div>
-    </div> */}
+    </div>
   </div>
 
   {/* <!-- Controls --> */}
